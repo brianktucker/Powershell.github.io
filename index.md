@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my PowerShell Github Page!
 
-You can use the [editor on GitHub](https://github.com/brianktucker/Powershell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I've been around working in IT for over 20 years and through my time in the tech space have been a community contributor, quick learner, collaborator, and sharer of information.  That's what I hope this site becomes!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here, I hope to share a little of the following:
 
-### Markdown
+- PowerShell Code Samples
+- Custom SAML using Azure AD
+- Azure AD Application Registration Manifest knowledge
+- Things I've learned about Markdown while learning how to create Github Pages!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And that's the work stuff - for personal, I'm an avid aspiring astrophotographer, and hope to share some insights there as well.  I'm a member of the [Charlie Elliott Astronomy Chapter](http://ceastronomy.org) of the [Atlanta Astronomy Club](http://atlantaastronomy.org/) in Georgia.  Maybe, I'll share some of my photos here when I get good enough!
 
-```markdown
-Syntax highlighted code block
+Anyway, __stay tuned__, and I'll share more as time allows!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianktucker/Powershell.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
