@@ -1,3 +1,10 @@
+---
+layout:  default
+title:  Brian's PowerShell Page
+description:  Brian's PowerShell Github Page
+keywords:  powershell, azure, sso, saml
+---
+
 ## Welcome to my PowerShell Github Page!
 
 I've been around working in IT for over 20 years and through my time in the tech space have been a community contributor, quick learner, collaborator, and sharer of information.  That's what I hope this site becomes!
