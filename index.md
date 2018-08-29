@@ -4,7 +4,7 @@ I've been around working in IT for over 20 years and through my time in the tech
 
 Here, I hope to share a little of the following:
 
-- PowerShell Code Samples
+- PowerShell ```Code``` Samples
 - Custom SAML using Azure AD
 - Azure AD Application Registration Manifest knowledge
 - Things I've learned about Markdown while learning how to create Github Pages!
